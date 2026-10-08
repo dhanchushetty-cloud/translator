@@ -1,0 +1,159 @@
+# 🌐 Language Translator
+
+A simple **AI-powered Language Translator** web application that allows users to translate text from one language to another quickly and easily.
+
+## 📌 Project Overview
+
+The Language Translator is a web-based application designed to help users communicate across different languages.
+
+Users can:
+
+* Enter text in the input box
+* Select the source language
+* Select the target language
+* Translate the text
+* Copy the translated text
+* Clear the input and output
+
+The project is designed with a simple and user-friendly interface, making it easy for beginners and general users to use.
+
+## 🚀 Features
+
+* 🌍 Multiple language translation
+* ✍️ Simple text input
+* 🔄 Source and target language selection
+* ⚡ Fast translation
+* 📋 Copy translated text
+* 🗑️ Clear input/output
+* 📱 Responsive user interface
+* 🎨 Simple and clean design
+* 🤖 AI/API-based translation support
+
+## 🛠️ Technologies Used
+
+### Frontend
+
+* HTML5
+* CSS3
+* JavaScript
+
+### Translation
+
+* Translation API / AI Translation Model
+
+### Development Tools
+
+* Visual Studio Code
+* Git
+* GitHub
+
+## 📂 Project Structure
+
+```text
+LanguageTranslator/
+│
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+```
+
+## 💻 How to Run the Project
+
+### 1. Clone the repository
+
+```bash
+git clone YOUR_GITHUB_REPOSITORY_URL
+```
+
+### 2. Open the project
+
+```bash
+cd LanguageTranslator
+```
+
+### 3. Open in Visual Studio Code
+
+```bash
+code .
+```
+
+### 4. Run the project
+
+You can open `index.html` directly in your browser.
+
+Or, if you have the **Live Server** extension in VS Code:
+
+1. Open `index.html`
+2. Right-click inside the file
+3. Select **Open with Live Server**
+4. The application will open in your browser.
+
+## 🔑 API Configuration
+
+If the project uses a translation API, add your API configuration in the appropriate JavaScript/backend file.
+
+**Important:** Do not upload private API keys directly to GitHub.
+
+Use environment variables or a backend server to keep API keys secure.
+
+Example:
+
+```text
+API_KEY=your_api_key_here
+```
+
+## 🔄 How It Works
+
+```text
+User enters text
+       ↓
+Select source language
+       ↓
+Select target language
+       ↓
+Translation request
+       ↓
+Translation model/API
+       ↓
+Translated text
+       ↓
+Display result
+```
+
+## 🎯 Project Objective
+
+The main objective of this project is to develop a simple and accessible language translation system using modern web technologies and AI-based translation services.
+
+It can be useful for:
+
+* Students
+* Travelers
+* Communication between different language speakers
+* Learning new languages
+* Basic multilingual communication
+
+## 🔮 Future Improvements
+
+Future versions can include:
+
+* 🎤 Voice input
+* 🔊 Text-to-speech
+* 📷 Image/text recognition
+* 🗣️ Speech-to-speech translation
+* 📱 Mobile application
+* 🌐 More Indian language support
+* 🤖 Advanced AI translation models
+* 📜 Translation history
+* ⭐ Favorite translations
+* 🌍 Offline translation support
+
+## 👨‍💻 Author
+
+**Dhanush S Shetty**
+
+AI & Machine Learning Engineering Student
+
+## 📄 License
+
+This project is created for **educational and project purposes**.
